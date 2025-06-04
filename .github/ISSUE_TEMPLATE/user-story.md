@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Submit a Poll Response
+about: Publish a Poll
 title: USER STORY <TITLE>
 labels: ''
 assignees: ''
